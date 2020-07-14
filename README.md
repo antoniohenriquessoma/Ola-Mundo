@@ -1,2 +1,3 @@
 # Ola Mundo
- primeiro repositorio no git teste
+ Primeiro repositorio no git teste
+ Repositorio criado no curso de git e github
